@@ -1,0 +1,5 @@
+PRINTAR VALOR COM NÚMERO LIMITADO DE CASAS DECIMÁIS:
+double result = 1.3556;
+1 PASSO - transformas o número em uma string e adicionar a limitação de casas decimáis 
+String resulArrendondado = result.toStringAsFixed(2); //parz ter apenas 2 casas decimáis
+print(resultArredondado);
