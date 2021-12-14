@@ -1,2 +1,4 @@
-# Introdu-o-a-Dart-
+# Introduçã a Dart-
 Diário de aprendizado
+Todos os conhecimentos adquiridos sobre o assunto
+// em construção 
