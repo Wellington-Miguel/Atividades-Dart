@@ -6,3 +6,11 @@ print(resultArredondado);
 OU
 Usar diretamente no print sem usar variável
 print (result.toStringAsFixed(2));
+-----------------------------------------------------------------------------
+USANDO FUNÇOES MATEMÁTICAS
+PASSO 1:
+import 'dart:math';
+FUNÇÕES
+  // pow = expoente; modelo = pow(variável, expoente)// 
+  // sqrt = raiz quadrada ; modelo = sqrt(variável)//
+-----------------------------------------------------------------------------
