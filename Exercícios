@@ -10,7 +10,9 @@ void main() {
   String resultString = result.toStringAsFixed(2);
   print(resultString);
 }
----------------------------------------------
+
+save into another file.dart
+
 //Função do 2 grau//
 import 'dart:math';
 void main() {
@@ -24,7 +26,9 @@ void main() {
   double x2 = (-b-rzdelta)/ (2*a);
   print ('x1=$x1 x2=$x2');
   }
- -----------------------------------------------------
+  
+ save into another file.dart
+
  //imc tabela//
 import 'dart:math';
 void main() {
@@ -43,7 +47,9 @@ double imc= peso/pow(1.7,2);
      print ('Obesidade'); 
   }
 }
---------------------------------------------------
+
+save into another file.dart
+
 //triângulos//
 import 'dart:math';
 void main() {
@@ -70,7 +76,9 @@ int a = 8;
   }
   
 }
----------------------------------------------------
+
+
+save into another file.dart
 //conversão de hora//
 import 'dart:math';
 void main() {
