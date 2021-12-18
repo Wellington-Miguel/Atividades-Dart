@@ -1,4 +1,4 @@
 # Introduçã a Dart-
-Diário de aprendizado
-Todos os conhecimentos adquiridos sobre o assunto
-// em construção 
+Diário de aprendizado.
+Exercícios com enunciado seguido de resolução.
+Macetes juntos todos dispostos na arquivo "Macetes" // em construção 
