@@ -1,5 +1,6 @@
 //Você deverá construir uma calculadora simples, que ao receber dois números e um operador, exibe o resultado da operação.
 //Dica: para converter uma String para double, utilize double.parse()
+//Exercício retirado do Hackerrank
 
 import 'dart:io';
 
@@ -32,12 +33,10 @@ void main() {
   }
   final resultstring = result.toStringAsFixed(5);
   final inteiro = result ~/ 1;
-  print(inteiro);
   final resto = result % 1;
-  print(resto);
-  if (resto == 0) {
-    print(resultstring);
-  } else {
+  if (resto > 0) {
     print(double.parse(resultstring));
+  } else {
+    print(inteiro);
   }
 }

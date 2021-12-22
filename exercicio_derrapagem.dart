@@ -1,3 +1,9 @@
+//Exercício retirado do Hackerrank
+// O Tesla Model X é um carro autônomo que consegue dirigir sozinho.
+//Para evitar acidentes, o carro deve ser capaz de calcular qual a distância que ele percorrerá, ao iniciar o processo de frenagem, até parar.
+//Você acabou de ser contratado (a) como desenvolver (a) de software na Tesla. Sua primeira tarefa é fazer um programa capaz de calcular essa distância.
+// A fórmula para o cálculo é a seguinte: distância = -velocidade ² / 2*aceleração
+
 import 'dart:io';
 
 void main() {
