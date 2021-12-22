@@ -14,3 +14,6 @@ FUNÇÕES
   // pow = expoente; modelo = pow(variável, expoente)// 
   // sqrt = raiz quadrada ; modelo = sqrt(variável)//
 -----------------------------------------------------------------------------
+CONVERTER UJMA STRING EM UM DOUBLE OU INTEIRO
+double.parse()
+int.parse()

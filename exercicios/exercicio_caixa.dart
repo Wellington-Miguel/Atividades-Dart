@@ -4,17 +4,61 @@ import 'dart:convert';
 
 void caixa(int value) {
   // Escreva seu programa a partir daqui
-  var resto;
-  var cem = value ~/ 100;
-  resto = value % 100;
-  var cinq = resto ~/ 50;
-  resto = resto % 50;
-  var vint = resto ~/ 20;
-  resto = resto % 20;
-  var dez = resto ~/ 10;
-  resto = resto % 10;
-  var cinc = resto ~/ 5;
-  resto = resto % 5;
+  int cem = 0;
+  int cinquenta = 0;
+  int vinte = 0;
+  int dez = 0;
+  int cinco = 0;
+  int dois = 0;
+  var contagem;
+  var texto = '';
+  var separador = '';
+  if (value % 5 == 1) {
+    value = value - 4;
+    dois = 2;
+  }
+  if (value % 5 == 3) {
+    value = value - 6;
+    dois = dois + 3;
+  }
+  if (value >= 100) {
+    cem = value ~/ 100;
+    contagem = value % 100;
+    texto = '$cem de 100';
+  } else {
+    contagem = value;
+  }
+  if (contagem >= 50) {
+    cinquenta = contagem ~/ 50;
+    contagem = contagem % 50;
+    separador = texto.isEmpty ? '' : ', ';
+    texto += '$separador$cinquenta de 50';
+  }
+  if (contagem >= 20) {
+    vinte = contagem ~/ 20;
+    contagem = contagem % 20;
+    separador = texto.isEmpty ? '' : ', ';
+    texto += '$separador$vinte de 20';
+  }
+  if (contagem >= 10) {
+    dez = contagem ~/ 10;
+    contagem = contagem % 10;
+    separador = texto.isEmpty ? '' : ', ';
+    texto += '$separador$dez de 10';
+  }
+  if (contagem >= 5) {
+    cinco = contagem ~/ 5;
+    contagem = contagem % 5;
+    separador = texto.isEmpty ? '' : ', ';
+    texto += '$separador$cinco de 5';
+  }
+  if (contagem >= 2) {
+    int dois2 = contagem ~/ 2;
+    dois += dois2;
+    separador = texto.isEmpty ? '' : ', ';
+    texto += '$separador$dois de 2';
+  }
+  print(texto);
 }
 
 // Nao deletar
