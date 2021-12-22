@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "home/miguel/Documents/Git/Introdução a dart/Introdu-o-a-Dart-/exercicios_calculadora.dart",
+            "program": "home/miguel/Documents/Git/Introdução a dart/Introdu-o-a-Dart-/exercicios",
             "console": "terminal"
         }
     ]

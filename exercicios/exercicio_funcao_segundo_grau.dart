@@ -1,3 +1,6 @@
+/* Equaçãoa do 2 grau
+Encontrar raízes (x1 e x2) de uma equação de segundo grau. */
+
 import 'dart:math';
 
 void main() {
