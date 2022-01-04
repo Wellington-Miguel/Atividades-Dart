@@ -1,3 +1,10 @@
+/*
+Os caixas de autoatendimento de um banco precisam ser muito eficientes para o melhor uso das cédulas de dinheiro. 
+Você foi convidado para criar um algoritmo para utilizar o menor número possível de cédulas de 100, 50, 20, 10, 5 e 2. 
+Dado que o usuário deseja fazer um saque de um valor inteiro (0 centavos), nosso programa precisa emitir quantas notas serão necessárias de cada cédula.
+Dica: Prestem atenção em valores terminados com 1 e 3, já que nosso caixa não possui cédulas de 1. 
+Uma das formas de resolver esse problema é verificando o resto da divisão por 5.
+*/
 import 'dart:async';
 import 'dart:io';
 import 'dart:convert';

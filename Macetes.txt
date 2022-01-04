@@ -17,3 +17,27 @@ FUNÇÕES
 CONVERTER UJMA STRING EM UM DOUBLE OU INTEIRO
 double.parse()
 int.parse()
+-----------------------------------------------------------------------------
+FUNCIONALIDADES DO ARRAY 
+- Tamanho do array 
+ "variável".length
+ - Primeiro item 
+ "variável".first 
+ - Último ítem 
+ "varável'.last
+ - Verificar se está vazio 
+ "variável".isEmpty
+
+MANIPULAÇÃO DO ARRAY 
+- Adicionar um ítem ao final 
+.add(ítem)
+.addAll
+- Adiconar um ítem em um local específico 
+.insert(posição, ítem)
+.insertAll
+- Deletar 
+.remove(ítem)
+.removeAt(posição)
+.removeLast() - remover último ítem
+.removeRange(de, até) - remover intervalo 
+.clear - limpar 
