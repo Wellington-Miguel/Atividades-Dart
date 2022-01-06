@@ -1,7 +1,5 @@
 //Instruções -> Criar 4 listas:
 
-import 'dart:ffi';
-
 void main() {
 // Lista A: lista vazia utilizando o construtor de List, que seja possível adicionar mais itens depois.
   final lista_a = List.empty(growable: true);

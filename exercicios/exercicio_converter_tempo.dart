@@ -3,8 +3,6 @@ Dado um tempo em minutos, converter para dias, horas e minutos, mostrando o resu
 Um dia tem 1440 minutos, ao passo que 1 hora tem 60 minutos.
  Caso o tempo não tenha minutos suficientes para contabilizar dias ou horas, conforme não devem ser exibidos.*/
 
-import 'dart:math';
-
 void main() {
   int min = 2234;
   double dia = min / 1440;

@@ -14,7 +14,7 @@ import 'dart:math';
 void main() {
   double peso = 84;
   double altura = 1.78;
-  double imc = peso / pow(1.7, 2);
+  double imc = peso / pow(altura, 2);
   String result = imc.toStringAsFixed(2);
   print('Seu IMC é $result');
   if (imc < 18.5) {
