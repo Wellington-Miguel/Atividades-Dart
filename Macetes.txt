@@ -41,3 +41,9 @@ MANIPULAÇÃO DO ARRAY
 .removeLast() - remover último ítem
 .removeRange(de, até) - remover intervalo 
 .clear - limpar 
+--------------------------------------------------------------------------------
+ENTRADA DE DADOS 
+type? valor = type.parse(stdin.readLineSync()!);
+- type = tipo de variável.
+- "?" = usado para permitir que uma variável possa ser inicializada nula.
+- "!' = utilizado para permitir usar uma ferramenta de manipulação de String em uma variável de outro tipo.
