@@ -1,6 +1,7 @@
 # Lista de exercícios 01 - Cubos Academy 
 > Lista resolvida por: Wellington Miguel     
-> Para mais informações: Wellinton2010_silva@hotmail.com      
+> Para mais informações: Wellinton2010_silva@hotmail.com     
+> Veja mais trabalhos em Dart no meu repositório: [Dart-Github](https://github.com/Wellington-Miguel/Introducao_a_dart)    
 
 **_Questões: 24._**       
 _Adicionei o input através do comando:_
