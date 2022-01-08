@@ -4,7 +4,7 @@
 > Veja mais trabalhos em Dart no meu repositório: [Dart-Github](https://github.com/Wellington-Miguel/Introducao_a_dart)    
 
 **_Questões: 24._**    
-**_Enunciado da questão no arquivo .md_**
+**_Enunciado da questão no arquivo .md_**       
 **_Obs:_**   
 _Adicionei o input através do comando:_
 _type? valor = type.parse(stdin.readLineSync()!);_
