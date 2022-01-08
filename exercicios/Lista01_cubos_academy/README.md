@@ -9,4 +9,4 @@ _Adicionei o input através do comando:_
 _type? valor = type.parse(stdin.readLineSync()!);_
 - type = tipo de variável
 - "?" = usado para permitir que uma variável possa ser inicializada nula.
-- "!' = utilizado para permitir usar uma ferramenta de manipulação de String em uma variável de outro tipo.
+- "!' = Para o parâmetro de string (stdin.readLineSync) fucione em qualquer tipo de argumento.

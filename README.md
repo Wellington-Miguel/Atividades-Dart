@@ -4,4 +4,6 @@
 > Veja mais sobre minha vida profissional em: [Linkedin](https://www.linkedin.com/in/wellington-m-408313103)  
 ## Diário de aprendizado.
 ## Exercícios com enunciado seguido de resolução.
+#### Introducao_a_dart/ exercicios /
 ## Macetes juntos todos dispostos na arquivo "Macetes" // em construção 
+#### Introducao_a_dart/ Macetes.txt
