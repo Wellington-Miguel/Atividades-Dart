@@ -5,5 +5,5 @@
 ## Diário de aprendizado.
 ## Exercícios com enunciado seguido de resolução.
 #### Introducao_a_dart/ exercicios /
-## Macetes juntos todos dispostos na arquivo "Macetes" // em construção 
+## Macetes (Grupo de dicas para manipular variáveis em Dart) // em construção 
 #### Introducao_a_dart/ Macetes.txt
