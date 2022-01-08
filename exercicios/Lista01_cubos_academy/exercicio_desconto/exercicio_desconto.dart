@@ -1,5 +1,3 @@
-/*Objetivo
-Encontrar o desconto de 10% sobre o preço de compra de um produto.*/
 import 'dart:io';
 
 // Instruções

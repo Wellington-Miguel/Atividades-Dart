@@ -1,5 +1,3 @@
-/*Objetivo
-Verificar qual dos números informados é maior, qual menor ou se são iguais.*/
 import 'dart:io';
 
 // Instruções

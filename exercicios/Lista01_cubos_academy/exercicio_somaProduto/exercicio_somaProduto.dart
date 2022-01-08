@@ -1,5 +1,3 @@
-/*Objetivo
-Calcular o produto de 4 valores informados.*/
 import 'dart:io';
 
 // Instruções

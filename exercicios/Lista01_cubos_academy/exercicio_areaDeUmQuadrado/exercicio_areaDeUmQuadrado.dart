@@ -1,6 +1,3 @@
-//Objetivo
-// Calcular a área de um quadrado a partir do valor dos lados.
-// Lembrando que a premissa (o que se espera) de uma figura ser considerada um quadrado é ter os lados iguais.
 import 'dart:io';
 
 // Instruções

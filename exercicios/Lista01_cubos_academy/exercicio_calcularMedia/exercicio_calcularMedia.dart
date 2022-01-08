@@ -1,5 +1,3 @@
-/*Objetivo
-Calcular a média das notas de um estudante.*/
 import 'dart:io';
 
 // Instruções

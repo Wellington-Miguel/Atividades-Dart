@@ -1,6 +1,3 @@
-/*Objetivo
-Inversor os valores guardados nas variáveis.*/
-
 // Instruções
 import 'dart:io';
 

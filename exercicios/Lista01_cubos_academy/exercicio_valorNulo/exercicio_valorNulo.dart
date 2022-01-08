@@ -1,5 +1,3 @@
-/*Objetivo
-Verifique se o usuário informou um valor.*/
 import 'dart:io';
 
 // Instruções

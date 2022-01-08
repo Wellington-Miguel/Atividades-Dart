@@ -1,5 +1,3 @@
-/*Objetivo
-Verificar se o número da linha é par, ímpar ou zero.*/
 import 'dart:io';
 
 // Instruções

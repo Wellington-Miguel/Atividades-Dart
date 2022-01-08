@@ -1,5 +1,3 @@
-/*Objetivo
-Verifique se o usuário informou o nome.*/
 import 'dart:io';
 
 // Instruções

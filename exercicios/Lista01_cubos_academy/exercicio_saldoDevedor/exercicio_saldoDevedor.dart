@@ -1,5 +1,3 @@
-/*Objetivo
-Encontrar o valor do saldo devedor de um consórcio.*/
 import 'dart:io';
 
 // Instruções

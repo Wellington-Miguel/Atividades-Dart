@@ -1,6 +1,3 @@
-/*Objetivo
-Calcular a média das notas de um estudante e verificar se está aprovado ou reprovado, 
-usando como base, a média 6.*/
 import 'dart:io';
 
 // Instruções
