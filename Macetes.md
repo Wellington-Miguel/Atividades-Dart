@@ -1,4 +1,4 @@
-#PRINTAR VALOR COM NÚMERO LIMITADO DE CASAS DECIMÁIS:
+# PRINTAR VALOR COM NÚMERO LIMITADO DE CASAS DECIMÁIS:
 double result = 1.3556;
 1 PASSO - transformas o número em uma string e adicionar a limitação de casas decimáis 
 String resulArrendondado = result.toStringAsFixed(2); //parz ter apenas 2 casas decimáis
@@ -7,7 +7,7 @@ OU
 Usar diretamente no print sem usar variável
 print (result.toStringAsFixed(2));
 -----------------------------------------------------------------------------
-#USANDO FUNÇOES MATEMÁTICAS
+# USANDO FUNÇOES MATEMÁTICAS
 PASSO 1:
 import 'dart:math';
 FUNÇÕES
@@ -18,7 +18,7 @@ FUNÇÕES
 double.parse()
 int.parse()
 -----------------------------------------------------------------------------
-#FUNCIONALIDADES DO ARRAY 
+# FUNCIONALIDADES DO ARRAY 
 - Tamanho do array 
  "variável".length
  - Primeiro item 
@@ -28,7 +28,7 @@ int.parse()
  - Verificar se está vazio 
  "variável".isEmpty
 
-#MANIPULAÇÃO DO ARRAY 
+# MANIPULAÇÃO DO ARRAY 
 - Adicionar um ítem ao final 
 .add(ítem)
 .addAll
