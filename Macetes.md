@@ -46,9 +46,8 @@ int.parse()
 type? valor = type.parse(stdin.readLineSync()!);
 - type = tipo de variável.
 - "?" = usado para permitir que uma variável possa ser inicializada nula.
-- "!' = utilizado para permitir usar uma ferramenta de manipulação de String em uma variável de outro tipo.
-------------------------------------------------------------------------------------
-#FUNÇÃO
+- "!' = utilizado para permitir usar uma ferramenta de manipulação de String em uma variável de outro tipo.------------------------------------------------------------------------------------
+# FUNÇÃO
 -Declaração:
 [tipo] nomeDaFunção(argumento){
   //código
