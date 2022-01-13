@@ -8,6 +8,9 @@ int dia = 0;
 int mes = 0;
 int ano = 0;
 int idadeatual = 0;
+final anoatual = DateTime.now().year;
+final mesatual = DateTime.now().month;
+final diaatual = DateTime.now().day;
 void main() {
   imput();
   idade();
@@ -31,9 +34,9 @@ void imput({String? imputName, int? imputDia, int? imputMes, int? imputAno}) {
 }
 
 // Crie uma function para calcular a idade atual.
-int idade({int mesatual = 1, int diaAtual = 12}) {
-  idadeatual = 2020 - (ano - 1);
-  if (mes <= mesatual && dia <= diaAtual) {
+int idade() {
+  idadeatual = anoatual - (ano + 1);
+  if (mes <= mesatual && dia <= diaatual) {
     idadeatual++;
   }
   return idadeatual;
