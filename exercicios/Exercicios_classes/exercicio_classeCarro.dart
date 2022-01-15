@@ -13,8 +13,8 @@ class Carro {
   String potenciaMotor;
   String _combustivel = 'A definir..';
   Carro(this.nomeMontadora, this.modelo, this.cor, this.potenciaMotor);
+
 //Tentativa de controlar o tipo de combustível através do get e set
-// Ainda inacaba o valor só está sendo adicionado uma vez
   String get combustivel {
     return _combustivel;
   }
@@ -35,14 +35,26 @@ void main() {
   Carro carroEsporte = Carro('Audi', 'Audi TT RS', 'Vermelho', '400 HP');
   Carro carroClassico = Carro('WV', 'Fusca', 'Azul', '100 HP');
   Carro carroPopular = Carro('Chevrolet', 'Prima', 'Branco', '200 HP');
-  carroEsporte.combustivel = 'erro';
+  carroEsporte.combustivel = 'flex';
   carroClassico.combustivel = 'erro';
   carroPopular.combustivel = 'gasolina';
+
 // Mostre na tela cada um dos carros.
-  print(
-      'Montadora: ${carroEsporte.nomeMontadora} \n Modelo: ${carroEsporte.modelo}\n Cor: ${carroEsporte.cor} \n PotÊncia do motor: ${carroEsporte.potenciaMotor} \n Combustível: ${carroEsporte.combustivel}');
-  print(
-      'Montadora: ${carroClassico.nomeMontadora} \n Modelo: ${carroClassico.modelo}\n Cor: ${carroClassico.cor} \n PotÊncia do motor: ${carroClassico.potenciaMotor} \n Combustível: ${carroEsporte.combustivel}');
-  print(
-      'Montadora: ${carroPopular.nomeMontadora} \n Modelo: ${carroPopular.modelo}\n Cor: ${carroPopular.cor} \n PotÊncia do motor: ${carroPopular.potenciaMotor} \n Combustível: ${carroEsporte.combustivel}');
+  print('Montadora: ${carroEsporte.nomeMontadora}');
+  print('Modelo: ${carroEsporte.modelo}');
+  print('Cor: ${carroEsporte.cor}');
+  print('PotÊncia do motor: ${carroEsporte.potenciaMotor}');
+  print('Combustível: ${carroEsporte.combustivel} \n');
+
+  print('Montadora: ${carroClassico.nomeMontadora}');
+  print('Modelo: ${carroClassico.modelo}');
+  print('Cor: ${carroClassico.cor}');
+  print('PotÊncia do motor: ${carroClassico.potenciaMotor}');
+  print('Combustível: ${carroClassico.combustivel}\n');
+
+  print('Montadora: ${carroPopular.nomeMontadora}');
+  print('Modelo: ${carroPopular.modelo}');
+  print('Cor: ${carroPopular.cor}');
+  print('PotÊncia do motor: ${carroPopular.potenciaMotor}');
+  print('Combustível: ${carroPopular.combustivel}\n');
 }
