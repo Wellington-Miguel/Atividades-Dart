@@ -1,8 +1,8 @@
-# Diário de bordo: Flutter
+# Diário de bordo: Dart
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-![Flutter_estudo](https://i.ibb.co/TmBF5td/Logotipo-c-rebro-pensar-psicologia.png)
+![Dart_estudo](https://i.ibb.co/WfCQPdf/dartlang-ar21.png)
 
 > O objetivo desse repositório é armazenar todas as atividades feitas no cusro de Flutter da Cubos Academy em parceria com a Nubank. **Lembrando que esse é um material de estudo não um projeto completo de um app e todas as questões foram retiradas das aulas da Cubos Academy, não sou de forma alguma o responsável pela criação dos problemas utilizados.**
 
@@ -19,18 +19,21 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente do SDK Flutter (2.10 ou superio)
+- Você instalou a versão mais recente do SDK Dart 2.16.1
 - Você tem uma máquina `<Windows / Linux / Mac>`.
 
 ## 🚀 Executando exercícios do diário de bordo
 
 Para acessar os exercícios, siga estas etapas:
 
-- Faça o clone do repositório
-- Cada grupo de exercício terá  seu próprio modo de execusão, consulte o README.md de cada  pasta.
+1. Faça o clone do repositório
+2. Abra a pasta do arquivo em seu terminal de preferência.
+3. Digite o comando:
+`dart run <nome_do_arquivo>`
+4. ou execulte na IDE de sua preferência.
 
 
-## 📫 Contribuindo para Diário de bordo - Flutter
+## 📫 Contribuindo para Diário de bordo - Dart
 
 Siga estas etapas:
 
@@ -42,7 +45,7 @@ Siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 🤝 Autor
+## Autor
 
 Pessoa que realizou as respostas dos exercícios para este projeto:
 
@@ -52,7 +55,7 @@ Pessoa que realizou as respostas dos exercícios para este projeto:
       <a href="#">
         <img src="https://i.ibb.co/BfDNfjx/foto-wellington.png" width="100px;" alt="Foto do WellingtonMiguel no GitHub"/><br>
         <sub>
-          <b>WellingtonMiguel</b>
+          <b>Wellington Miguel</b>
         </sub>
       </a>
     </td>
@@ -63,4 +66,4 @@ Pessoa que realizou as respostas dos exercícios para este projeto:
 
 [Licença](https://github.com/Wellington-Miguel/Flutter/blob/c0328f44930b32215dc27b7fcc92f9c95eb60a6e/LICENSE.md)
 
-[⬆ Voltar ao topo](#diário-de-bordo-flutter)
+[⬆ Voltar ao topo](#diário-de-bordo-dart)
