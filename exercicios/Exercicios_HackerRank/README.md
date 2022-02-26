@@ -1,10 +1,10 @@
-# Diário de bordo: Dart
+# Exercícios Hacker Rank
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ![Dart_estudo](https://i.ibb.co/WfCQPdf/dartlang-ar21.png)
 
-> O objetivo desse repositório é armazenar todas as atividades feitas no cusro de Flutter da Cubos Academy em parceria com a Nubank. **Lembrando que esse é um material de estudo não um projeto completo de um app e todas as questões foram retiradas das aulas da Cubos Academy, não sou de forma alguma o responsável pela criação dos problemas utilizados.**
+> O objetivo desse repositório é armazenar todas as atividades feitas no cusro de Flutter da Cubos Academy em parceria com a Nubank. **Lembrando que esse é um material de estudo e prática, todas as questões foram retirados do site https://www.hackerrank.com/.**
 
 ## Ajustes e melhorias
 
@@ -66,4 +66,4 @@ Pessoa que realizou as respostas dos exercícios para este projeto:
 
 [Licença](https://github.com/Wellington-Miguel/Flutter/blob/c0328f44930b32215dc27b7fcc92f9c95eb60a6e/LICENSE.md)
 
-[⬆ Voltar ao topo](#diário-de-bordo-dart)
+[⬆ Voltar ao topo](#exercícios-hacker-rank)
