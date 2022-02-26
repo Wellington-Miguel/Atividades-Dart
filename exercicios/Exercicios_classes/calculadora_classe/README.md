@@ -1,6 +1,5 @@
 # Calculadora utilizando classe
-
-## Calcular os valores informados conforme a operação escolhida
+#### Calcular os valores informados conforme a operação escolhida
 > **Instruções:**
 > 1. Escreva um algoritmo em Dart que tenha uma classe chamada Calculadora com os seguintes métodos (function):
 > 2. somar; subtrair; dividir ;multiplicar
