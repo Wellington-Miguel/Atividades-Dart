@@ -1,19 +1,11 @@
 # Exercícios Hacker Rank
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=COMPLETE&color=GREEN&style=for-the-badge)
 
 ![Dart_estudo](https://i.ibb.co/WfCQPdf/dartlang-ar21.png)
 
 > O objetivo desse repositório é armazenar todas as atividades feitas no cusro de Flutter da Cubos Academy em parceria com a Nubank. **Lembrando que esse é um material de estudo e prática, todas as questões foram retirados do site https://www.hackerrank.com/.**
 
-## Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- Adicionar exercícios
-- Completar todos os tópicos do Readme
-- Organizar pastas de exercícios
-- Adicionar comentários ao código
 
 ## 💻 Pré-requisitos
 
@@ -22,7 +14,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou a versão mais recente do SDK Dart 2.16.1
 - Você tem uma máquina `<Windows / Linux / Mac>`.
 
-## 🚀 Executando exercícios do diário de bordo
+## 🚀 Executando exercícios
 
 Para acessar os exercícios, siga estas etapas:
 
@@ -49,8 +41,3 @@ Pessoa que realizou as respostas dos exercícios para este projeto:
   </tr>
     </table>
 
-## 📝 Licença
-
-[Licença](https://github.com/Wellington-Miguel/Flutter/blob/c0328f44930b32215dc27b7fcc92f9c95eb60a6e/LICENSE.md)
-
-[⬆ Voltar ao topo](#exercícios-hacker-rank)
