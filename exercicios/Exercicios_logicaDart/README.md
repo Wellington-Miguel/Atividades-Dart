@@ -2,7 +2,7 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=COMPLETE&color=GREEN&style=for-the-badge)
 
-![Dart_estudo](https://i.ibb.co/WfCQPdf/dartlang-ar21.png)
+![Dart_estudo](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 > O objetivo desse repositório é armazenar todas as atividades feitas no cusro de Flutter da Cubos Academy em parceria com a Nubank. **Lembrando que esse é um material de estudo e todas as questões foram retiradas das aulas da Cubos Academy, não sou de forma alguma o responsável pela criação dos problemas utilizados.**
 
