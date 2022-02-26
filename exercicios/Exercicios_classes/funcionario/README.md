@@ -1,6 +1,6 @@
 # Calcular salário
 #### Calcular o salário dos funcionários da empresa, considerando às horas extras, comissão por venda e bonificação.
-> **Instruções**
+> **Instruções**: 
 > 1. Escreva um algoritmo em Dart que receba matrícula, nome, sobrenome, salário e número de horas trabalhadas.
 > 2. Crie a classe Funcionario com os seguintes campos (atributos):
 > 3. Crie as classes Caixa, Vendedor e Gerente, que herdam da classe Funcionario.
