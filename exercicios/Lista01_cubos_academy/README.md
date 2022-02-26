@@ -9,7 +9,7 @@
 
 **_Questões: 24._**    
 **_Enunciado da questão no README.md de cada pasta_**       
-**Obs: Adicionei o input as resoluções, mas não era necessário. Caso deseje um teste rápido, pelo console de depuração basta substituir os valores das variáveis e eliminar as linhas de input**   
+**Obs: Adicionei o input as resoluções, mas não era necessário. Caso deseje um teste rápido, pelo console de depuração basta substituir os valores das variáveis e eliminar as linhas de input.**   
 
 ## 🚀 Executando exercícios
 
